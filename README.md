@@ -31,19 +31,31 @@ from offline-first POS systems and multi-tenant SaaS platforms to AI agents that
 
 ## ⭐ Featured Projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Safal POS**](https://github.com/MuhammadFaizan73/safal-pos) | Offline-first restaurant POS & multi-tenant SaaS — desktop, Android, owner app and admin panel | Electron · React · Node.js · PostgreSQL |
-| [**Forma**](https://github.com/MuhammadFaizan73/forma-gym-saas) | Multi-tenant, multi-branch gym management SaaS with FBR tax invoicing, attendance hardware and a member PWA | Next.js · TypeScript · PostgreSQL · Drizzle ORM |
-| [**Safal Inventory Cloud**](https://github.com/MuhammadFaizan73/safal-inventory-cloud) | Full inventory, purchasing, sales, manufacturing and POS suite with a public REST API and webhooks | Next.js · TypeScript · PostgreSQL · Drizzle ORM |
-| [**Safal Tech Mart POS**](https://github.com/MuhammadFaizan73/safal-mart-pos) | Grocery & mart POS desktop app — billing, inventory, promotions engine, loyalty and khata | Electron · React · Express · SQLite |
-| [**Medical Store POS**](https://github.com/MuhammadFaizan73/medical-store-pos) | Pharmacy point-of-sale desktop app — sales, inventory, purchases, returns, shifts and reports | Next.js · TypeScript · Electron · SQLite |
-| [**Restaurant Ordering Platform**](https://github.com/MuhammadFaizan73/restaurant-ordering-platform) | Monorepo for customer ordering, admin dashboard, kitchen display and rider delivery apps | React Native · Expo · Next.js · Prisma |
-| [**School Management SaaS**](https://github.com/MuhammadFaizan73/school-management-saas) | Multi-school SaaS with admin, teacher, parent and student portals — one database per school | PHP · MySQL · Composer |
-| [**Hospital Management System**](https://github.com/MuhammadFaizan73/hospital-management-system) | Patient visit management with token generation, REST APIs, admin dashboard and PDF visit summaries | Python · Django · FastAPI · MySQL |
-| [**Lead Desk**](https://github.com/MuhammadFaizan73/lead-desk-crm) | Real-estate lead response dashboard on top of n8n automations — hot leads, conversations and agent performance | Next.js · TypeScript · Supabase · n8n |
-| [**WhatsApp AI POS Trial Bot**](https://github.com/MuhammadFaizan73/whatsapp-ai-pos-trial-bot) | Restaurant sends its name and a menu photo on WhatsApp — Claude reads the menu and a 48-hour POS trial is created automatically | Node.js · Express · Claude AI · WhatsApp API |
-| [**Google Meet Automation Bot**](https://github.com/MuhammadFaizan73/google-meet-automation-bot) | Reads Google Calendar, joins every Google Meet automatically and posts in chat — runs daily on a server | Python · Node.js · Playwright · Docker |
+### 🧾 POS Systems
+
+<p align="center">
+  <a href="https://github.com/MuhammadFaizan73/safal-pos"><img src="assets/projects/safal-pos.svg" alt="Safal POS" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/safal-mart-pos"><img src="assets/projects/safal-mart-pos.svg" alt="Safal Tech Mart POS" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/medical-store-pos"><img src="assets/projects/medical-store-pos.svg" alt="Medical Store POS" width="49%"/></a>
+</p>
+
+### ☁️ SaaS Platforms
+
+<p align="center">
+  <a href="https://github.com/MuhammadFaizan73/forma-gym-saas"><img src="assets/projects/forma-gym-saas.svg" alt="Forma Gym SaaS" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/school-management-saas"><img src="assets/projects/school-management-saas.svg" alt="School Management SaaS" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/safal-inventory-cloud"><img src="assets/projects/safal-inventory-cloud.svg" alt="Safal Inventory Cloud" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/restaurant-ordering-platform"><img src="assets/projects/restaurant-ordering-platform.svg" alt="Restaurant Ordering Platform" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/hospital-management-system"><img src="assets/projects/hospital-management-system.svg" alt="Hospital Management System" width="49%"/></a>
+</p>
+
+### 🤖 AI Agents & Automation
+
+<p align="center">
+  <a href="https://github.com/MuhammadFaizan73/whatsapp-ai-pos-trial-bot"><img src="assets/projects/whatsapp-ai-pos-trial-bot.svg" alt="WhatsApp AI POS Trial Bot" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/lead-desk-crm"><img src="assets/projects/lead-desk-crm.svg" alt="Lead Desk CRM" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/google-meet-automation-bot"><img src="assets/projects/google-meet-automation-bot.svg" alt="Google Meet Automation Bot" width="49%"/></a>
+</p>
 
 > Most of these are commercial products, so their repositories document features and architecture while the source stays private. **Live demos available on request.**
 

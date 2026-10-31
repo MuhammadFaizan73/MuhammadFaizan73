@@ -24,7 +24,7 @@ Every system I build is **structured, scalable and easy to maintain** — clean 
 <table>
 <tr>
 <td align="center" width="25%"><h2>8+</h2><sub>Years of experience</sub></td>
-<td align="center" width="25%"><h2>11+</h2><sub>Products & platforms built</sub></td>
+<td align="center" width="25%"><h2>20+</h2><sub>Products & automations built</sub></td>
 <td align="center" width="25%"><h2>⭐</h2><sub>5-star client reviews on Fiverr</sub></td>
 <td align="center" width="25%"><h2>🌍</h2><sub>Clients in US, Europe, Middle East & Asia</sub></td>
 </tr>
@@ -94,6 +94,20 @@ Every system I build is **structured, scalable and easy to maintain** — clean 
   <a href="https://github.com/MuhammadFaizan73/whatsapp-ai-pos-trial-bot"><img src="assets/projects/whatsapp-ai-pos-trial-bot.svg" alt="WhatsApp AI POS Trial Bot" width="49%"/></a>
   <a href="https://github.com/MuhammadFaizan73/lead-desk-crm"><img src="assets/projects/lead-desk-crm.svg" alt="Lead Desk CRM" width="49%"/></a>
   <a href="https://github.com/MuhammadFaizan73/google-meet-automation-bot"><img src="assets/projects/google-meet-automation-bot.svg" alt="Google Meet Automation Bot" width="49%"/></a>
+</p>
+
+### ⚙️ n8n AI Automations
+
+<p align="center">
+  <a href="https://github.com/MuhammadFaizan73/whatsapp-ai-customer-support-agent"><img src="assets/projects/whatsapp-ai-customer-support-agent.svg" alt="WhatsApp AI Customer Support Agent" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/whatsapp-ai-sales-order-agent"><img src="assets/projects/whatsapp-ai-sales-order-agent.svg" alt="WhatsApp AI Sales & Order Agent" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/ai-voice-calling-agent"><img src="assets/projects/ai-voice-calling-agent.svg" alt="AI Voice Calling Agent" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/real-estate-sms-lead-qualifier"><img src="assets/projects/real-estate-sms-lead-qualifier.svg" alt="Real Estate SMS Lead Qualifier" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/immigration-consultant-ai-agent"><img src="assets/projects/immigration-consultant-ai-agent.svg" alt="Immigration Consultant AI Agent" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/restaurant-whatsapp-ordering-bot"><img src="assets/projects/restaurant-whatsapp-ordering-bot.svg" alt="Restaurant WhatsApp Ordering Bot" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/software-sales-whatsapp-agent"><img src="assets/projects/software-sales-whatsapp-agent.svg" alt="Software Sales & Support WhatsApp Agent" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/linkedin-ai-content-autopilot"><img src="assets/projects/linkedin-ai-content-autopilot.svg" alt="LinkedIn AI Content Autopilot" width="49%"/></a>
+  <a href="https://github.com/MuhammadFaizan73/ai-ebook-generator"><img src="assets/projects/ai-ebook-generator.svg" alt="AI eBook Generator" width="49%"/></a>
 </p>
 
 > Most of these are commercial products, so their repositories document features and architecture while the source stays private. **Live demos available on request.**

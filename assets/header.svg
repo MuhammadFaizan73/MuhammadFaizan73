@@ -17,7 +17,7 @@
 <text x="70" y="250" font-size="18" fill="#94A3B8">SaaS products · POS systems · AI agents · Web &amp; mobile apps</text>
 <g transform="translate(1010,70)">
  <rect width="200" height="160" rx="18" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.12"/>
- <text x="100" y="62" text-anchor="middle" font-size="44" font-weight="800" fill="url(#ac)">11+</text>
+ <text x="100" y="62" text-anchor="middle" font-size="44" font-weight="800" fill="url(#ac)">20+</text>
  <text x="100" y="92" text-anchor="middle" font-size="15" fill="#CBD5E1">real-world</text>
  <text x="100" y="114" text-anchor="middle" font-size="15" fill="#CBD5E1">projects</text>
 </g>

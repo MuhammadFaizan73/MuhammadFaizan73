@@ -1,7 +1,7 @@
 <img src="assets/header.svg" alt="Muhammad Faizan" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+8%2B+Years+Experience;AI+Agents+%26+n8n+Automation+Specialist;Building+SaaS%2C+POS+%26+ERP+Products;Founder+%40+Rootocloud+%7C+Co-founder+%40+Safal+Tech" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+8%2B+Years+Experience;Full-Stack+%26+DevOps+Engineer;AI+Agents+%26+n8n+Automation+Specialist;Building+SaaS%2C+POS+%26+ERP+Products;Founder+%40+Rootocloud+%7C+Co-founder+%40+Safal+Tech" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Muhammad Faizan** — founder of **[Rootocloud](https://rootocloud.com)** and co-founder of **Safal Tech**, with **8+ years of experience** as a full-stack developer and automation specialist.
+Hello! I'm **Muhammad Faizan** — **Senior Software Engineer at Avialdo Solutions**, founder of **[Rootocloud](https://rootocloud.com)** and co-founder of **Safal Tech**, with **8+ years of experience** across full-stack development, DevOps and AI automation.
 
 I build smart, reliable automations with **n8n** that streamline workflows and remove manual work — custom workflows that connect apps, APIs and databases using webhooks, conditions and logic-based automation. Alongside that, I design and ship complete software products: offline-first POS systems, multi-tenant SaaS platforms and AI agents that answer customers on WhatsApp.
 
@@ -30,6 +30,15 @@ Every system I build is **structured, scalable and easy to maintain** — clean 
 </tr>
 </table>
 
+## 🧑‍💼 Experience
+
+| Role | Company | Focus |
+|---|---|---|
+| **Senior Software Engineer** | Avialdo Solutions | Full-stack development, DevOps, cloud deployments, system architecture |
+| **Founder** | [Rootocloud](https://rootocloud.com) | AI agents, n8n automations, SaaS, web & mobile apps for clients worldwide |
+| **Co-founder** | Safal Tech | Safal POS, inventory and retail software products |
+| **Freelance Developer** | [Fiverr](https://www.fiverr.com/faizan_develope) | AI automation, full-stack web apps, SQL & NoSQL — 5-star client reviews |
+
 ## 💼 Services I Offer
 
 | | Service | What you get |
@@ -40,6 +49,7 @@ Every system I build is **structured, scalable and easy to maintain** — clean 
 | 🧾 | **POS, ERP & Inventory** | Restaurant, retail and pharmacy POS, inventory, purchasing and accounting systems |
 | 🌐 | **Full-Stack Web Apps** | Next.js / React frontends with Node.js, Python or PHP backends |
 | 📱 | **Desktop & Mobile Apps** | Electron desktop apps and React Native (Expo) mobile apps |
+| 🚀 | **DevOps & Cloud** | CI/CD pipelines, Docker, AWS / Railway / Vercel deployments, Linux servers, monitoring |
 | 🗄️ | **Databases & APIs** | SQL / NoSQL design, queries, optimisation and REST API development |
 
 ## 🧰 Tech Stack

@@ -9,7 +9,7 @@
 
 ## 👋 About Me
 
-I'm **Muhammad Faizan**, founder of **[Rootocloud](https://rootocloud.com)**. I design and ship complete software products for businesses —
+I'm **Muhammad Faizan**, founder of **[Rootocloud](https://rootocloud.com)** and co-founder of **Safal Tech**. I design and ship complete software products for businesses —
 from offline-first POS systems and multi-tenant SaaS platforms to AI agents that answer customers on WhatsApp.
 
 - 🚀 Building **SaaS products** used by real businesses (restaurants, gyms, schools, retail)

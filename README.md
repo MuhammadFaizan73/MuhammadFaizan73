@@ -1,7 +1,7 @@
 <img src="assets/header.svg" alt="Muhammad Faizan" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+8%2B+Years+Experience;Full-Stack+%26+DevOps+Engineer;AI+Agents+%26+n8n+Automation+Specialist;Building+SaaS%2C+POS+%26+ERP+Products;Founder+%40+Rootocloud+%7C+Co-founder+%40+Safal+Tech" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=700&lines=Senior+Software+Engineer+%7C+9%2B+Years+Experience;Full-Stack+%26+DevOps+Engineer;AI+Agents+%26+n8n+Automation+Specialist;Building+SaaS%2C+POS+%26+ERP+Products;Senior+Automation+Engineer+%40+Mind+Spark+Studio;Founder+%40+Rootocloud+%7C+Co-founder+%40+Safal+Tech" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 ## 👋 About Me
 
-Hello! I'm **Muhammad Faizan** — **Senior Software Engineer at Avialdo Solutions**, founder of **[Rootocloud](https://rootocloud.com)** and co-founder of **Safal Tech**, with **8+ years of experience** across full-stack development, DevOps and AI automation.
+Hello! I'm **Muhammad Faizan** — **Senior Software Engineer at Avialdo Solutions**, **Senior Automation Engineer at Mind Spark Studio**, founder of **[Rootocloud](https://rootocloud.com)** and co-founder of **Safal Tech**, with **9+ years of experience** across full-stack development, DevOps and AI automation.
 
 I build smart, reliable automations with **n8n** that streamline workflows and remove manual work — custom workflows that connect apps, APIs and databases using webhooks, conditions and logic-based automation. Alongside that, I design and ship complete software products: offline-first POS systems, multi-tenant SaaS platforms and AI agents that answer customers on WhatsApp.
 
@@ -23,7 +23,7 @@ Every system I build is **structured, scalable and easy to maintain** — clean 
 
 <table>
 <tr>
-<td align="center" width="25%"><h2>8+</h2><sub>Years of experience</sub></td>
+<td align="center" width="25%"><h2>9+</h2><sub>Years of experience</sub></td>
 <td align="center" width="25%"><h2>20+</h2><sub>Products & automations built</sub></td>
 <td align="center" width="25%"><h2>⭐</h2><sub>5-star client reviews on Fiverr</sub></td>
 <td align="center" width="25%"><h2>🌍</h2><sub>Clients in US, Europe, Middle East & Asia</sub></td>
@@ -34,6 +34,7 @@ Every system I build is **structured, scalable and easy to maintain** — clean 
 
 | Role | Company | Focus |
 |---|---|---|
+| **Senior Automation Engineer** | Mind Spark Studio | AI-powered automation workflows (n8n, Python, LLMs, APIs, webhooks), AI agents for support, lead qualification, WhatsApp and CRM |
 | **Senior Software Engineer** | Avialdo Solutions | Full-stack development, DevOps, cloud deployments, system architecture |
 | **Founder** | [Rootocloud](https://rootocloud.com) | AI agents, n8n automations, SaaS, web & mobile apps for clients worldwide |
 | **Co-founder** | Safal Tech | Safal POS, inventory and retail software products |
